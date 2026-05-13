@@ -1,0 +1,93 @@
+Labeling Foundations
+Before you begin labeling, it's important to understand the three types of labels you'll use throughout this task. These are the building blocks for how AI systems make sense of written messages. 
+
+
+Intent
+This label tells the AI what the customer is asking for. You'll choose the one option that best captures the main request:
+
+Billing (refunds, charges, subscriptions)
+Technical (errors, bugs, login issues)
+Account (profile changes, access updates)
+Other (everything else)
+
+Sentiment
+Sentiment tells the AI how the customer feels. This helps it respond with the right tone. 
+
+Positive (gratitude, satisfaction)
+Neutral (informational or emotionless)
+Negative (frustration, complaints, urgency)
+
+PII (Personally Identifiable Information)
+PII includes details like names, emails, phone numbers, account numbers, or anything else that could identify a person. Your job is to spot when these appear and set the PII flag to “Yes.” You will never copy or store this information; just identify and flag it so the system knows it needs to be handled with care.
+
+
+Your Tools 
+Download the two resources below and keep them open as you work through the tasks:
+
+One Page Guidelines - A breakdown of label definitions, examples, edge cases, and decision tips. 
+PII Quick Card - A fast checklist for what counts as personal information and how to handle it. 
+
+
+
+======================
+
+
+Task 1: Batch Labeling & PII Awareness
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+Edge Case Notes: When Lableing Isn't So Clear
+Most messages are easy to label once you've reviewed the guidelines. But some don't follow a simple pattern. These are edge cases-messages that are vague, layered, or just plain tricky. Learning to spot and explain your reasoning for edge cases is one of the most valuable skills a data labeler can build. 
+
+ 
+Why Edge Cases Matter
+Inconsistent labels confuse machine learning models. When one labeler says the tone is neutral and another says it's negative, without explanation, the model doesn't know which example to trust. By writing a short note about why you made a certain decision, you help improve consistency across teams and make labeling guidelines better for everyone.
+
+ 
+What to Focus On
+Your job is not to overthink or “solve” the user's problem; it's to explain why you chose the intent and sentiment you did, especially when things feel borderline.
+
+Here's what helps:
+
+Point out where you saw uncertainty and how you handled it
+Keep your note short — 1 to 2 sentences is plenty
+Stay grounded in the definitions, but use your judgment
+ 
+⚠️ Important: Do not include personal details in your notes (names, emails, usernames, etc.). Your notes should focus on labeling logic, not data content.
+
+ 
+Example
+“I guess the refund finally went through, but it still shows a charge on my end.”
+
+Your note:
+
+I chose Billing as the intent because this message is still about transactions. I picked Neutral sentiment since the user seems resigned, not angry or pleased.
+
+Now that you've seen how edge case notes work, it's time to try it yourself. On the next few pages, you'll label five messages and explain your reasoning. Keep your resources open and trust your judgment. 
+
+
+===============================
+Skills learned in this simulation
+
+Analytical Thinking, Attention to Detail, Data Privacy, Documentation, Feedback Delivery

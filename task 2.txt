@@ -1,0 +1,41 @@
+How to Review Labels
+Now that you're reviewing other people's labels, your job is to think clearly, consistently, and constructively. You'll use the Keep, Fix, or Flag framework to decide whether each set is ready to go or needs a second look. 
+
+ 
+The Review Framework
+Keep - The labels follow the guidelines and make sense. No changes needed. 
+Fix - One or more labels are incorrect or inconsistent. You'll explain what should change. 
+Flag - Something's unclear. Maybe the message is ambiguous, or the guideline doesn't fully cover it. You'll note what made it hard to decide. 
+ 
+A Few Tips
+Focus on intent, tone, and privacy. Are the choices aligned with the definitions you used in Task 1?
+Don't be afraid to fix something, just explain why.
+Use your best judgment, and be kind. Real people are learning from this, just like you.
+ 
+
+Let's dive in. You'll review five label sets, one at a time, and apply the Keep/Fix/Flag framework to each. As you go, take note of anything confusing, inconsistent, or missing from the guideline; you'll use those insights to suggest one clear improvement at the end of this exercise.
+
+
+
+
+
+==================
+Example Answer
+You've just worked through five review sets and written justifications. Before moving on, take a look at how experienced reviewers handled these same messages. These aren't the only “right” answers, but they model clear, focused reasoning that stays true to the schema. Use them to sharpen your own approach and build confidence in your judgement. 
+
+ 
+
+Review Set 1 Example Response
+The labels are mostly accurate, but the labeler missed the PII flag. Even though the phone number isn’t shown, the user explicitly asks to update it, which counts as personal info.
+Review Set 2 Example Response 
+This one’s solid. The user wants to update billing info, the tone is neutral, and no personal info is shared. I’d keep the label set as-is.
+Review Set 3 Example Response 
+The labeler got this one right. The user is clearly frustrated about a bug, and there’s no PII in the message. The negative sentiment and bug intent both make sense.
+Review Set 4 Example Response
+Everything’s correct except the PII flag. The message includes an email address, so that should be a Yes. Easy fix.
+Review Set 5 Example Response
+I’d keep it. The user is upset about a login bug, but the intent and sentiment are accurate. There’s no personal info, so the PII flag is also correct.
+
+
+===========
+
